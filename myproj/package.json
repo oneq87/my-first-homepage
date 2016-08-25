@@ -1,0 +1,24 @@
+{
+  "name": "myproj",
+  "version": "1.0.0",
+  "description": "My first homepage",
+  "main": "ONEQ.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "I love nodejs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oneq87/my-first-homepage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oneq87/my-first-homepage.git/issues"
+  },
+  "homepage": "https://github.com/oneq87/my-first-homepage.git",
+  "author": "oneq",
+  "license": "ISC"
+}
